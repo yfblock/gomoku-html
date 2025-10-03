@@ -23,4 +23,7 @@ SUM:                             4             11              4            105
 - `gomoku.js` 中负责控制五子棋的基本逻辑，包含棋盘状态和落子函数。
 - `canvas.js` 中负责控制渲染部分和点击事件。
 
+## example
+
+<https://yfblock.github.io/gomoku-html/>
 
